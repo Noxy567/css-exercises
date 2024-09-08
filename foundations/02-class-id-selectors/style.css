@@ -1,0 +1,24 @@
+.para{
+    background-color: pink;
+}
+
+.para.second{
+    font-size: 25px;
+    font-weight: 550;
+}
+
+
+.para.third{
+    font-size: 20px;
+}
+
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+
+#div2{
+    background-color: lightgreen;
+    font-size: 26px;
+    font-weight: bold;
+}
